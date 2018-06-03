@@ -1,0 +1,31 @@
+Token name: PureCarbon
+
+Token ticker: PURC
+
+Token decimals: 18
+
+Multisig wallet address: 0x58e04d124d4D712BD2D08c29453184078E9cCb31
+
+*****************************
+
+Crowdsale rate: 2500
+
+Crowdsale start time: 2018-05-16T18:33 (GMT + 1)
+
+Crowdsale end time: 2018-05-21T00:00 (GMT + 1)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0x1FC9aDD3C2cAa6ea3952a25240535B4fc8D0A945
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]

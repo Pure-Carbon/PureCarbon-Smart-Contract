@@ -1,0 +1,35 @@
+Token name: PureCarbon
+
+Token ticker: PURC
+
+Token decimals: 18
+
+Multisig wallet address: 0x58e04d124d4D712BD2D08c29453184078E9cCb31
+
+*****************************
+
+Crowdsale rate: 1200
+
+Crowdsale start time: 2018-06-18T00:00 (GMT + 1)
+
+Crowdsale end time: 2018-06-25T00:00 (GMT + 1)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for Stage 5: 0x0cC26694139A2F62A7dFe803db179e53C3A4A204
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for Stage 5:**** 
+
+0000000000000000000000006ca1c2631af8502d83fe930e14eef007b9d28a04
